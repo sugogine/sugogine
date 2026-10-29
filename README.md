@@ -20,7 +20,7 @@ Senior Software Engineer with 9+ years of experience designing and delivering sc
 ## Highlights
 
 - Production agentic AI contributing to a 70% reduction in support-request turnaround time
-- Code reviews and performance optimisation reducing response times by 15%
+- Code reviews and performance optimisation reducing response times by 55%
 - CI/CD and containerisation accelerating delivery cycles by 40%
 - Real-time SignalR systems improving user experience by 30% and reducing latency by 40%
 
